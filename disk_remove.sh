@@ -1,0 +1,10 @@
+umount /mnt/datanode1
+umount /mnt/datanode2
+umount /mnt/datanode3
+umount /mnt/datanode4
+umount /mnt/datanode5
+rm /home/diaolan/docker-image/datanode1.img
+rm /home/diaolan/docker-image/datanode2.img
+rm /home/diaolan/docker-image/datanode3.img
+rm /home/diaolan/docker-image/datanode4.img
+rm /home/diaolan/docker-image/datanode5.img
